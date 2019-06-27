@@ -52,6 +52,7 @@ public class ArrayDequeu {
 		ok.addFirst(new ArrayDequeu("Antonio4", 432));
 		
 		System.out.println(ok);
+		
 		System.out.println(ok.peek());
 		System.out.println(ok.getLast());
 		System.out.println(ok.getFirst());
